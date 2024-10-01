@@ -15,6 +15,14 @@ This Weather API is a simple yet powerful web service that provides current weat
 - **dotenv**: A library to manage environment variables, keeping sensitive information secure.
 - **drf-yasg**: A great library for generating real Swagger/OpenAPI 2.0 specifications from a Django Rest Framework API.
 
+## Don't forget!
+- **Make a file .env and fill it with this data:**
+- **WEATHER_API_KEY= YourAPIKEY**
+- **REDIS_URL=redis://localhost:6379/0**
+
+
+
+## Images:
 
 ![image](https://github.com/user-attachments/assets/c802bfe7-00be-4750-979a-2d6349a939e8)
 
